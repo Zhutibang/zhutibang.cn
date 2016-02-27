@@ -2,7 +2,7 @@
 /* CSS Document */
 
 /*display banner*/
-#banner_bg_dis{ height:550px;width:100%;background:#f3e5d8;}
+#banner_bg_dis{ height:550px;width:100%;background:#F5F5F5;}
 .banner_dis{height:550px;width:1002px; margin:0 auto; background:url(img/display_banner01.jpg) no-repeat center bottom;}
 
 .control_lr a{ display:block; width:51px; height:36px; background:url(img/display_ban_left1.png) no-repeat center; position:fixed; top:88px;right:251px;}
