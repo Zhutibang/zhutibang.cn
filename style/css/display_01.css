@@ -1,0 +1,35 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/*display banner*/
+#banner_bg_dis{ height:550px;width:100%;background:#f3e5d8;}
+.banner_dis{height:550px;width:1002px; margin:0 auto; background:url(img/display_banner01.jpg) no-repeat center bottom;}
+
+.control_lr a{ display:block; width:51px; height:36px; background:url(img/display_ban_left1.png) no-repeat center; position:fixed; top:88px;right:251px;}
+.control_lr a+a{ background:url(img/display_ban_right1.png) no-repeat center; position:fixed; top:88px; right:200px;}
+
+.control_lr a:hover{background:url(img/display_ban_left2.png) no-repeat center;)}
+.control_lr a+a:hover{ background:url(img/display_ban_right2.png) no-repeat center;}
+
+/*内容部分*/
+#content_dis{width:1000px; margin:0 auto;}
+
+#content_dis h2{ font:normal 30px/30px "微软雅黑"; color:#000;padding-top:46px; padding-bottom:23px;}
+#content_dis p{ font:normal 16px/26px "微软雅黑"; color:#010101;margin-bottom:33px;}
+
+#add_text h2{ font:normal 30px/30px "微软雅黑"; color:#000;padding-top:0px; padding-bottom:23px;}
+#add_text p{ font:normal 16px/26px "微软雅黑"; color:#010101;margin-bottom:50px;}
+
+
+.line_dis{ width:1000px; height:2px; background:#1db5ea; overflow:hidden; margin-bottom:40px;}
+
+.content_bg_dis{width:100%;background:#f5f5f5;}
+#content_dis h3{ font:lighter 40px/40px "微软雅黑"; font-weight:100; margin-bottom:52px; text-align:center;}
+#content_dis h3 span{ font:lighter 18px/18px "微软雅黑"; font-weight:100;}
+
+
+#content_dis img{ width:1000px; margin-bottom:20px;}
+
+
+
+
